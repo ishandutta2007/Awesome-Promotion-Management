@@ -1,8 +1,26 @@
+<!--
+  Awesome-Promotion-Management
+  Curated list of open-source and SaaS platforms for promotion management, loyalty programs,
+  coupons, vouchers, gift cards, incentives, referrals, and personalized offers.
+  Keywords: promotion management, loyalty platform, coupon engine, voucher system, referral program,
+  trade promotion, open source loyalty, SaaS promotion software, discounts, customer incentives
+-->
+
 <div align="center">
   <img src="assets/banner.svg" alt="Awesome-Promotion-Management banner — promotions, loyalty, coupons, vouchers, incentives and offers" width="100%" />
 </div>
 
 # 🎉 Awesome-Promotion-Management
+
+> A curated, continuously updated list of the best **promotion management platforms**, **loyalty programs**, **coupon & voucher engines**, **gift cards**, **referral programs**, **incentives**, and **personalized offers** — with a primary focus on **open-source software**.
+
+## 📚 Table of Contents
+
+- [Top Promotion Management Platforms](#top-promotion-management-platforms)
+- [SaaS / Hosted Platforms](#saas--hosted-platforms)
+- [Open-Source Softwares](#open-source-softwares)
+- [Quick Start Recommendations](#quick-start-recommendations)
+- [Contributing](#contributing)
 
 ## 🏆 Top Promotion Management Platforms
 
