@@ -2,9 +2,9 @@
   <img src="assets/banner.svg" alt="Awesome-Promotion-Management banner — promotions, loyalty, coupons, vouchers, incentives and offers" width="100%" />
 </div>
 
-# Awesome-Promotion-Management
+# 🎉 Awesome-Promotion-Management
 
-## Top Promotion Management Platforms
+## 🏆 Top Promotion Management Platforms
 
 A curated list of leading platforms for promotion management, loyalty programs, vouchers, coupons, incentives, and personalized offers.  
 **Primary focus: open-source software.**
@@ -13,7 +13,7 @@ Commercial / hosted platforms are listed separately for completeness. Open-sourc
 
 ---
 
-## SaaS / Hosted Platforms
+## 💼 SaaS / Hosted Platforms
 
 *Sorted by company size (annual revenue / ARR) — descending.*
 
@@ -32,11 +32,11 @@ Commercial / hosted platforms are listed separately for completeness. Open-sourc
 
 ---
 
-## Open-Source Softwares
+## 🧩 Open-Source Softwares
 
 Fully production-grade open-source promotion and loyalty engines comparable to enterprise platforms are limited, but several solid self-hostable options, engines, and accelerators exist. Many teams combine these with e-commerce platforms or custom rule engines.
 
-### Core Frameworks & Loyalty / Promotion Engines
+### ⚙️ Core Frameworks & Loyalty / Promotion Engines
 
 *Sorted by GitHub stars — descending.*
 
@@ -51,7 +51,7 @@ Fully production-grade open-source promotion and loyalty engines comparable to e
 | **[Open Loyalty (Community / older editions)](https://github.com/)** | Originally open-source headless loyalty platform (PHP/Symfony). Features members, campaigns, points, tiers, and gamification. Current commercial version is hosted; older community code remains available for self-hosting/forking. | Open source (older versions) | Historical open core; check current status |
 | **[Voucherify Open Source Loyalty Accelerator](https://www.voucherify.io/)** | Open-source Next.js loyalty app + POS simulator that integrates with Voucherify (and optionally CDPs/CEPs). Useful reference implementation for omnichannel loyalty. | Open source (frontend) | Accelerator requiring Voucherify backend |
 
-### Specialized Libraries & Related Tools
+### 🛠️ Specialized Libraries & Related Tools
 
 | Project | Description | Focus Area |
 |---------|-------------|---------|
@@ -63,7 +63,7 @@ Fully production-grade open-source promotion and loyalty engines comparable to e
 | **Web3 / on-chain loyalty experiments** (e.g., ERC-1155 based loyalty protocols) | Emerging open-source dApps for points, loyalty cards, and gift exchanges on blockchain. | Experimental / Web3 loyalty |
 | **Odoo / ERPNext loyalty & coupon modules** | Community and enterprise modules for points, coupons, and promotional campaigns within open-source ERP. | ERP + loyalty |
 
-### Additional Notable Open-Source Tools
+### 📦 Additional Notable Open-Source Tools
 
 - **E-commerce platform native tools** — Magento, Shopify (apps), WooCommerce, Saleor, Medusa, and Bagisto all have open or community coupon/promotion modules that can be extended.
 - **General open-source CRM / engagement** (SuiteCRM, EspoCRM, Mautic) — Can be customized for campaign and incentive tracking.
@@ -75,7 +75,7 @@ Fully production-grade open-source promotion and loyalty engines comparable to e
 
 ---
 
-## Quick Start Recommendations
+## 🚀 Quick Start Recommendations
 
 | Goal | Recommended Starting Point |
 |------|---------------------------|
@@ -92,7 +92,7 @@ Fully production-grade open-source promotion and loyalty engines comparable to e
 
 ---
 
-## Contributing
+## 🤝 Contributing
 
 Contributions, corrections, and new open-source projects are welcome.  
 Please open an issue or pull request.
