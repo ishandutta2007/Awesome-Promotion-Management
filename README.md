@@ -34,20 +34,22 @@ Fully production-grade open-source promotion and loyalty engines comparable to e
 
 ### Core Frameworks & Loyalty / Promotion Engines
 
+*Sorted by GitHub stars — descending.*
+
 | Project | Description | License | Notes |
 |---------|-------------|---------|-------|
-| **[OfferKit](https://github.com/offerkit/offerkit)** | Agent-first, self-hostable open-source promotion engine for coupons, loyalty, gift cards, referrals, and customer segments. Discount engine, stackable redemptions, points ledger, and JSON Logic rules. | MIT | Strong modern promotion/loyalty engine |
+| **[fuint](https://github.com/fushengqian/fuint)** [![GitHub Stars](https://img.shields.io/github/stars/fushengqian/fuint?style=social&color=white)](https://github.com/fushengqian/fuint/stargazers) | Open-source member marketing system with coupons, stored-value cards, points, tiers, and online/offline integration. Spring Boot + UniApp. Suitable for retail stores. | Open source | Store membership + marketing suite |
+| **[VoucherVault](https://github.com/l4rm4nd/VoucherVault)** [![GitHub Stars](https://img.shields.io/github/stars/l4rm4nd/VoucherVault?style=social&color=white)](https://github.com/l4rm4nd/VoucherVault/stargazers) | Django web app to store and manage vouchers, coupons, loyalty cards, and gift cards digitally. PWA, offline support, expiry notifications, QR/barcodes, multi-user. | Open source | Personal/business voucher & loyalty card manager |
+| **[OfferKit](https://github.com/offerkit/offerkit)** [![GitHub Stars](https://img.shields.io/github/stars/offerkit/offerkit?style=social&color=white)](https://github.com/offerkit/offerkit/stargazers) | Agent-first, self-hostable open-source promotion engine for coupons, loyalty, gift cards, referrals, and customer segments. Discount engine, stackable redemptions, points ledger, and JSON Logic rules. | MIT | Strong modern promotion/loyalty engine |
+| **[Stampee](https://github.com/danlim26/stampee)** [![GitHub Stars](https://img.shields.io/github/stars/danlim26/stampee?style=social&color=white)](https://github.com/danlim26/stampee/stargazers) | Free, open-source, self-hostable digital loyalty / stamp card platform for small businesses (cafés, salons, local shops). Owner dashboard, campaigns, staff accounts. | MIT | Lightweight digital stamp cards |
 | **[Open Loyalty (Community / older editions)](https://github.com/)** | Originally open-source headless loyalty platform (PHP/Symfony). Features members, campaigns, points, tiers, and gamification. Current commercial version is hosted; older community code remains available for self-hosting/forking. | Open source (older versions) | Historical open core; check current status |
-| **[Stampee](https://github.com/danlim26/stampee)** | Free, open-source, self-hostable digital loyalty / stamp card platform for small businesses (cafés, salons, local shops). Owner dashboard, campaigns, staff accounts. | MIT | Lightweight digital stamp cards |
-| **[VoucherVault](https://github.com/l4rm4nd/VoucherVault)** | Django web app to store and manage vouchers, coupons, loyalty cards, and gift cards digitally. PWA, offline support, expiry notifications, QR/barcodes, multi-user. | Open source | Personal/business voucher & loyalty card manager |
-| **[fuint](https://github.com/fushengqian/fuint)** | Open-source member marketing system with coupons, stored-value cards, points, tiers, and online/offline integration. Spring Boot + UniApp. Suitable for retail stores. | Open source | Store membership + marketing suite |
 | **[Voucherify Open Source Loyalty Accelerator](https://www.voucherify.io/)** | Open-source Next.js loyalty app + POS simulator that integrates with Voucherify (and optionally CDPs/CEPs). Useful reference implementation for omnichannel loyalty. | Open source (frontend) | Accelerator requiring Voucherify backend |
 
 ### Specialized Libraries & Related Tools
 
 | Project | Description | Focus Area |
 |---------|-------------|---------|
-| **[Coupon Store / similar self-hosted](https://github.com/metikular/coupon-store)** | Self-hostable home for coupons, loyalty cards, and gift cards with barcode/QR support and expiry notifications. | Personal coupon & loyalty card storage |
+| **[Coupon Store / similar self-hosted](https://github.com/metikular/coupon-store)** [![GitHub Stars](https://img.shields.io/github/stars/metikular/coupon-store?style=social&color=white)](https://github.com/metikular/coupon-store/stargazers) | Self-hostable home for coupons, loyalty cards, and gift cards with barcode/QR support and expiry notifications. | Personal coupon & loyalty card storage |
 | **iDempiere / ADempiere / ERPNext promotions modules** | Open-source ERP platforms with built-in or extensible promotion, campaign, and loyalty-like features (points as currency, promotion tabs, etc.). | ERP-integrated promotions |
 | **Custom rule engines** (e.g., JSON Logic, Drools community, or simple Node/Python engines) | Frequently used to build lightweight promotion validation and discount engines on top of e-commerce platforms. | Custom promotion logic |
 | **Web3 / on-chain loyalty experiments** (e.g., ERC-1155 based loyalty protocols) | Emerging open-source dApps for points, loyalty cards, and gift exchanges on blockchain. | Experimental / Web3 loyalty |
