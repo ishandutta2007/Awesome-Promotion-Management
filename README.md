@@ -1,3 +1,7 @@
+<div align="center">
+  <img src="assets/banner.svg" alt="Awesome-Promotion-Management banner — promotions, loyalty, coupons, vouchers, incentives and offers" width="100%" />
+</div>
+
 # Awesome-Promotion-Management
 
 ## Top Promotion Management Platforms
