@@ -1,2 +1,91 @@
 # Awesome-Promotion-Management
 
+# Top Promotion Management Platforms
+
+A curated list of leading platforms for promotion management, loyalty programs, vouchers, coupons, incentives, and personalized offers.  
+**Primary focus: open-source software.**
+
+Commercial / hosted platforms are listed separately for completeness. Open-source alternatives and community tools are emphasized throughout.
+
+---
+
+## SaaS / Hosted Platforms
+
+| Platform | Description | Key Focus |
+|----------|-------------|-----------|
+| **[Talon.One](https://www.talon.one/)** | Powerful incentives engine that unifies loyalty, promotions, and gamification. Real-time decisioning, personalized offers, bundles, referrals, and enterprise-scale rule execution (sub-50ms). | Omnichannel promotions + loyalty at scale |
+| **[Voucherify](https://www.voucherify.io/)** | API-first promotion and loyalty engine for coupons, cart promotions, gift vouchers, referrals, and loyalty campaigns. Strong validation rules, tiers, and distribution capabilities. | Flexible discount & loyalty campaigns |
+| **[Eagle Eye](https://eagleeye.com/)** | Highly scalable, API-first loyalty and personalization platform. Real-time offer execution, wallets, promotion budgets, and omnichannel rewards. Trusted by major retailers. | Enterprise retail loyalty & personalization |
+| **[Salesforce Promotion Management](https://www.salesforce.com/)** (Consumer Goods Cloud / Trade Promotion Management) | Trade promotion planning, execution, and monitoring within Salesforce. Templates, tactics, product inclusion, spend planning, and calendar views for CPG and retail. | Trade promotions & account planning |
+| **[Capillary Technologies](https://www.capillarytech.com/)** | AI-powered engagement and experiential loyalty platform. Points, tiers, gamification, predictive engagement, and omnichannel programs. Powers many large global loyalty schemes. | Enterprise loyalty + engagement |
+| **[SessionM](https://www.sessionm.com/)** (Capillary) | Points, tiers, incentives, and lifecycle loyalty management. Strong rules engine, status management, and integration with CRM for personalized rewards. | Points/tiers & behavioral loyalty |
+| **[Antavo](https://antavo.com/)** | Advanced AI-powered loyalty and incentives platform. Custom currencies, visual tier builders, gamification, challenges, referrals, and promotions beyond discounts. | Flexible modern loyalty programs |
+| **[Open Loyalty](https://www.openloyalty.io/)** | Headless, API-first loyalty engine with gamification, campaigns, multi-tenancy, and enterprise features. Strong for building custom loyalty experiences. | Headless loyalty platform |
+| **[Annex Cloud](https://www.annexcloud.com/)** | Enterprise Loyalty Experience Platform with gamification, badges, referrals, advanced segmentation, omnichannel experiences, and progressive profiling. | Enterprise loyalty experience |
+| **[Comarch Loyalty](https://www.comarch.com/)** | Complete loyalty management suite with rules engine, promotions, AI personalization, receipt scanning, and multi-channel support. Long track record in retail and multi-industry programs. | Full-stack loyalty management |
+
+---
+
+## Open-Source Softwares
+
+Fully production-grade open-source promotion and loyalty engines comparable to enterprise platforms are limited, but several solid self-hostable options, engines, and accelerators exist. Many teams combine these with e-commerce platforms or custom rule engines.
+
+### Core Frameworks & Loyalty / Promotion Engines
+
+| Project | Description | License | Notes |
+|---------|-------------|---------|-------|
+| **[OfferKit](https://github.com/offerkit/offerkit)** | Agent-first, self-hostable open-source promotion engine for coupons, loyalty, gift cards, referrals, and customer segments. Discount engine, stackable redemptions, points ledger, and JSON Logic rules. | MIT | Strong modern promotion/loyalty engine |
+| **[Open Loyalty (Community / older editions)](https://github.com/)** | Originally open-source headless loyalty platform (PHP/Symfony). Features members, campaigns, points, tiers, and gamification. Current commercial version is hosted; older community code remains available for self-hosting/forking. | Open source (older versions) | Historical open core; check current status |
+| **[Stampee](https://github.com/danlim26/stampee)** | Free, open-source, self-hostable digital loyalty / stamp card platform for small businesses (cafés, salons, local shops). Owner dashboard, campaigns, staff accounts. | MIT | Lightweight digital stamp cards |
+| **[VoucherVault](https://github.com/l4rm4nd/VoucherVault)** | Django web app to store and manage vouchers, coupons, loyalty cards, and gift cards digitally. PWA, offline support, expiry notifications, QR/barcodes, multi-user. | Open source | Personal/business voucher & loyalty card manager |
+| **[fuint](https://github.com/fushengqian/fuint)** | Open-source member marketing system with coupons, stored-value cards, points, tiers, and online/offline integration. Spring Boot + UniApp. Suitable for retail stores. | Open source | Store membership + marketing suite |
+| **[Voucherify Open Source Loyalty Accelerator](https://www.voucherify.io/)** | Open-source Next.js loyalty app + POS simulator that integrates with Voucherify (and optionally CDPs/CEPs). Useful reference implementation for omnichannel loyalty. | Open source (frontend) | Accelerator requiring Voucherify backend |
+
+### Specialized Libraries & Related Tools
+
+| Project | Description | Focus Area |
+|---------|-------------|---------|
+| **[Coupon Store / similar self-hosted](https://github.com/metikular/coupon-store)** | Self-hostable home for coupons, loyalty cards, and gift cards with barcode/QR support and expiry notifications. | Personal coupon & loyalty card storage |
+| **iDempiere / ADempiere / ERPNext promotions modules** | Open-source ERP platforms with built-in or extensible promotion, campaign, and loyalty-like features (points as currency, promotion tabs, etc.). | ERP-integrated promotions |
+| **Custom rule engines** (e.g., JSON Logic, Drools community, or simple Node/Python engines) | Frequently used to build lightweight promotion validation and discount engines on top of e-commerce platforms. | Custom promotion logic |
+| **Web3 / on-chain loyalty experiments** (e.g., ERC-1155 based loyalty protocols) | Emerging open-source dApps for points, loyalty cards, and gift exchanges on blockchain. | Experimental / Web3 loyalty |
+| **Odoo / ERPNext loyalty & coupon modules** | Community and enterprise modules for points, coupons, and promotional campaigns within open-source ERP. | ERP + loyalty |
+
+### Additional Notable Open-Source Tools
+
+- **E-commerce platform native tools** — Magento, Shopify (apps), WooCommerce, Saleor, Medusa, and Bagisto all have open or community coupon/promotion modules that can be extended.
+- **General open-source CRM / engagement** (SuiteCRM, EspoCRM, Mautic) — Can be customized for campaign and incentive tracking.
+- **Gamification libraries** — Various open-source badge, points, and challenge frameworks that can be wired into custom loyalty systems.
+- **Self-hosted stamp / punch-card apps** — Multiple small open-source projects exist for simple digital loyalty cards.
+- **Custom builds** on Laravel, Django, NestJS, or Spring — Very common when teams need full control over complex promotion rules and fraud prevention.
+
+**Note:** High-scale, real-time, multi-tenant promotion engines with advanced fraud protection, budget controls, and sub-50ms decisioning are predominantly commercial. Open-source options excel at coupons, basic loyalty points/tiers, stamp cards, and self-hosted voucher management. For enterprise needs, many organizations start with OfferKit or ERP modules and extend them, or use commercial engines with open-source frontends/accelerators.
+
+---
+
+## Quick Start Recommendations
+
+| Goal | Recommended Starting Point |
+|------|---------------------------|
+| Self-hostable modern promotion + loyalty engine | **OfferKit** |
+| Simple digital stamp / loyalty cards for SMBs | **Stampee** |
+| Voucher, coupon & gift card management | **VoucherVault** or **Coupon Store** |
+| Full member marketing for retail stores | **fuint** |
+| Headless / API-first loyalty (commercial + open roots) | **Open Loyalty** or **Voucherify** |
+| Enterprise real-time promotions & loyalty | **Talon.One** or **Eagle Eye** |
+| Trade promotions (CPG) | **Salesforce Promotion Management** |
+| Flexible modern loyalty programs | **Antavo** or **Annex Cloud** |
+| ERP-integrated promotions | **Odoo / ERPNext / iDempiere** modules |
+| Omnichannel retail loyalty accelerator | **Voucherify Loyalty Accelerator** (open frontend) |
+
+---
+
+## Contributing
+
+Contributions, corrections, and new open-source projects are welcome.  
+Please open an issue or pull request.
+
+---
+
+**Last updated:** August 2026  
+Emphasizing open-source tools while documenting the major commercial platforms for context. Production-grade open-source promotion engines are growing but still lag commercial platforms in scale, real-time decisioning, and enterprise fraud/budget controls.
