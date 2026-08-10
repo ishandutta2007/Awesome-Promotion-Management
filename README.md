@@ -1,6 +1,6 @@
 # Awesome-Promotion-Management
 
-# Top Promotion Management Platforms
+## Top Promotion Management Platforms
 
 A curated list of leading platforms for promotion management, loyalty programs, vouchers, coupons, incentives, and personalized offers.  
 **Primary focus: open-source software.**
