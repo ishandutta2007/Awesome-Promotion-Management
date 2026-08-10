@@ -14,6 +14,12 @@
 
 > A curated, continuously updated list of the best **promotion management platforms**, **loyalty programs**, **coupon & voucher engines**, **gift cards**, **referral programs**, **incentives**, and **personalized offers** — with a primary focus on **open-source software**.
 
+<div align="center">
+
+<a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a><a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a><img src="https://img.shields.io/badge/Made%20With-%E2%9D%A4-red?style=flat-square&logo=github" alt="Made with love"/><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=flat-square" alt="PRs Welcome"/><img src="https://img.shields.io/badge/License-MIT-blue?style=flat-square" alt="License MIT"/><img src="https://img.shields.io/github/repo-size/ishandutta2007/Awesome-Promotion-Management?style=flat-square" alt="Repo size"/><img src="https://img.shields.io/github/last-commit/ishandutta2007/Awesome-Promotion-Management?style=flat-square" alt="Last commit"/>
+
+</div>
+
 ## 📚 Table of Contents
 
 - [Top Promotion Management Platforms](#top-promotion-management-platforms)
