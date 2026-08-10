@@ -125,3 +125,17 @@ Please open an issue or pull request.
 
 **Last updated:** August 2026  
 Emphasizing open-source tools while documenting the major commercial platforms for context. Production-grade open-source promotion engines are growing but still lag commercial platforms in scale, real-time decisioning, and enterprise fraud/budget controls.
+
+---
+
+##  Star History
+
+<div align="center">
+   <a href="https://www.star-history.com/?repos=ishandutta2007%2FAwesome-Promotion-Management&type=date&legend=bottom-right">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Promotion-Management&type=date&theme=dark&legend=bottom-right" />
+      <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Promotion-Management&type=date&legend=bottom-right" />
+      <img alt="Star History Chart" src="https://api.star-history.com/chart?repos=ishandutta2007/Awesome-Promotion-Management&type=date&legend=bottom-right" />
+    </picture>
+   </a>
+</div>
